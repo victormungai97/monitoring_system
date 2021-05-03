@@ -1,0 +1,71 @@
+# HERE, we set the parts that are to be ignored by git
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+.vscode/
+
+# Configuration files
+instance/
+instance/config.py
+settings.py
+
+# All `save` files
+**.save
+
+# All socket files
+**.sock
+
+# Upload folder
+app/static/uploads/
+
+# Development database
+database.db
+database.db-journal
+app/database.db
+app/database.db-journal
+
+# Environment files
+.env
+*.env
+*.flaskenv
+
+# Log files
+logs/
+app/logs/
+*.log
+*.log.*
+
+# Cache files
+__pycache__/
+app/__pycache__/
+*.pyc
+**cache**
+
+# Temporary files
+tmp/
+
+# Encryption/decryption key files
+**/keys/
+**/keys/private_key.pem
+**/keys/public_key.pem
+
+# Distribution folder incase we incorporate NodeJS
+dist/
+
+# Rooms folder and the corresponding databases
+rooms/
+app/rooms/
+
+# Redis private server folder and config files
+redis-stable/
+*.rdb
+
+# OpenCV folders
+opencv/
+opencv_contrib/

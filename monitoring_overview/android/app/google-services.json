@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084907806762",
+    "project_id": "monitoring-overview-4ddfe",
+    "storage_bucket": "monitoring-overview-4ddfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084907806762:android:75dea9e89881289fa9e353",
+        "android_client_info": {
+          "package_name": "ke.co.nywelenyumbani.monitoring.overview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084907806762-m17cnle0pat6tnf69hnj34lnaekdjcje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LMcvnXwSWFVCM3x5IEEhv2XRZ0UMM24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084907806762-m17cnle0pat6tnf69hnj34lnaekdjcje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

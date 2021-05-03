@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728014550911",
+    "project_id": "monitoring-patient-aebf9",
+    "storage_bucket": "monitoring-patient-aebf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728014550911:android:2c867e2b024e5d9f8bcc4a",
+        "android_client_info": {
+          "package_name": "ke.co.nywelenyumbani.monitoring.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728014550911-gcp2dpvkpg3j0tveq3scbmknal67cgjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANRLECIKq9xNmlftaO7K8ZNQNPuDzQRqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728014550911-gcp2dpvkpg3j0tveq3scbmknal67cgjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
